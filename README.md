@@ -1,3 +1,7 @@
+# fork from uniswap v2
+For personally learning uniswap v2 periphery source code, adding some Chinese comment to help learning and understanding.
+
+个人整理和添加了一些中文代码注释，方便学习和理解。
 # Uniswap V2
 
 [![Actions Status](https://github.com/Uniswap/uniswap-v2-periphery/workflows/CI/badge.svg)](https://github.com/Uniswap/uniswap-v2-periphery/actions)
